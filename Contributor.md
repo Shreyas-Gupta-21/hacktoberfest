@@ -99,3 +99,13 @@
 - Bio: I am a tech enthusiast and currently working as a Software Engineer.
 - Link: [Github](https://www.github.com/MAHIMA01)
 
+---
+
+- Name: Shreyas Gupta
+- Bio: Second year ECE undergraduate student from India
+- Link: [Github](https://github.com/Shreyas-Gupta-21)
+
+---
+
+
+
