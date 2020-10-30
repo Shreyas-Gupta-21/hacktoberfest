@@ -20,5 +20,6 @@ app.listen(port, () => {
 
 //get time
 app.get('/time', (req, res) => {
+  // prints Date
   	res.send(Date.now())
 })
